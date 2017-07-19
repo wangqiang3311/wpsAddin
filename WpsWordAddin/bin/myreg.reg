@@ -1,0 +1,8 @@
+Windows Registry Editor Version 5.00
+[HKEY_CURRENT_USER\SOFTWARE\Microsoft\Office\\Word\Addins\WpsWordAddin.WPSWord2016]
+"FriendlyName"="WpsWordAddin"
+"Description"="wps wordÊ¾Àý"
+"LoadBehavior"=dword:00000003
+"CommandLineSafe"=dword:00000001
+[HKEY_CURRENT_USER\Software\Kingsoft\Office\WPS\AddinsWL]
+"WpsWordAddin.WPSWord2016"=""

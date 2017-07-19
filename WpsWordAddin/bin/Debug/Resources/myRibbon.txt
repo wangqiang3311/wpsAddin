@@ -1,0 +1,15 @@
+<customUI xmlns="http://schemas.microsoft.com/office/2009/07/customui">
+	<ribbon startFromScratch="false">
+		<tabs>
+			<tab id="Tab_ETClassTYEX"  label="C#Ribbon示例" visible="true" insertAfterMso="TabHome">
+				<group id="Gp_TYABOUT" label= "关于" visible="true">
+				    <menu id="Mu_TYCS" label= "测试" visible="true" getImage="GetRibbonImage" size="large">
+						<button id="Bt_TYCS1" label="测试1" onAction="GetRibbonOnAction"/>
+						<button id="Bt_TYCS2" label="测试2" onAction="GetRibbonOnAction"/>
+					</menu>
+					<button id="Bt_TYABOUT" label="关于" onAction="GetRibbonOnAction" getImage="GetRibbonImage" size="large"/>
+				</group>
+			</tab>
+		</tabs>
+	</ribbon>
+</customUI>

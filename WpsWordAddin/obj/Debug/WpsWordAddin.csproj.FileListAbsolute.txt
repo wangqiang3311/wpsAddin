@@ -1,0 +1,12 @@
+D:\mywork\WordAddInTest2010\WpsWordAddin\WpsWordAddin\bin\Debug\WpsWordAddin.dll
+D:\mywork\WordAddInTest2010\WpsWordAddin\WpsWordAddin\bin\Debug\WpsWordAddin.pdb
+D:\mywork\WordAddInTest2010\WpsWordAddin\WpsWordAddin\obj\Debug\Interop.AddInDesignerObjects.dll
+D:\mywork\WordAddInTest2010\WpsWordAddin\WpsWordAddin\obj\Debug\WpsWordAddin.csproj.ResolveComReference.cache
+D:\mywork\WordAddInTest2010\WpsWordAddin\WpsWordAddin\obj\Debug\WpsWordAddin.Resource1.resources
+D:\mywork\WordAddInTest2010\WpsWordAddin\WpsWordAddin\obj\Debug\WpsWordAddin.csproj.GenerateResource.Cache
+D:\mywork\WordAddInTest2010\WpsWordAddin\WpsWordAddin\obj\Debug\WpsWordAddin.dll
+D:\mywork\WordAddInTest2010\WpsWordAddin\WpsWordAddin\obj\Debug\WpsWordAddin.pdb
+D:\mywork\WordAddInTest2010\WpsWordAddin\WpsWordAddin\bin\Debug\WpsWordAddin.tlb
+D:\mywork\WordAddInTest2010\WpsWordAddin\WpsWordAddin\bin\Debug\Resources\myRibbon.txt
+D:\mywork\WordAddInTest2010\WpsWordAddin\WpsWordAddin\bin\Debug\Resources\gdc-logo.png
+D:\mywork\WordAddInTest2010\WpsWordAddin\WpsWordAddin\bin\Debug\Resources\gingerdroid.png
